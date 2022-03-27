@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75bee32d-d5fb-b24e-45ee-de0cc5b13819
 resourcetype: Document
 title: Closing Reflections
 uid: fb2cb109-f768-87d5-c94a-d7d707386215

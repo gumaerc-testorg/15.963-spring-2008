@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75bee32d-d5fb-b24e-45ee-de0cc5b13819
 resourcetype: Document
 title: Does sustained performance exist?
 uid: a6677c84-dec0-a525-b057-b1f4b38fbd47

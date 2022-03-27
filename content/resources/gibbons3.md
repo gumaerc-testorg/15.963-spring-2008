@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2238a7ac-ee90-9323-869b-9c96199e208a
 resourcetype: Document
 title: Control Rights
 uid: 64a89058-54b0-3a8d-393b-2f55425655e4

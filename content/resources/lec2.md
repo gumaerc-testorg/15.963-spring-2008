@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75bee32d-d5fb-b24e-45ee-de0cc5b13819
 resourcetype: Document
 title: 'Reviewing 15.900: Strategy fundamentals'
 uid: cf5f5428-da0f-e42f-7091-4fe8a92a864b

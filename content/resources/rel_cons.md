@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fe2854b-28b6-ec38-a77f-431e693cb3c9
 resourcetype: Document
 title: Reflections on Relational Contracts
 uid: 278c3d65-7878-fa52-eb9b-d62b86c33eea

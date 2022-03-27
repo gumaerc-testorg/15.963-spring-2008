@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2238a7ac-ee90-9323-869b-9c96199e208a
 resourcetype: Document
 title: Make, Buy, or Cooperate?
 uid: 78b0690c-5643-dd77-af45-b20a608230b4

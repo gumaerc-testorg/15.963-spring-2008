@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on reading
+  assignments, overlap with other classes, policy for missed classes, and written
+  assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -60,4 +63,4 @@ There will be two kinds of assignments: a final paper and a sequence of "two pag
 
 A one paragraph description of your chosen company, explaining why you think it will make a good focus for your semester's work and including the name of everyone on your team, is due in class in Ses #3.
 
-More detailed information is available in the [assignments]({{< baseurl >}}/pages/assignments) section.
+More detailed information is available in the {{% resource_link 4fe2854b-28b6-ec38-a77f-431e693cb3c9 "assignments" %}} section.

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -184,9 +185,9 @@ Casciaro, Tiziana, and Christina Darwall. "The HP-Cisco Alliance (A)." HBS Case:
 
 You may also find helpful:
 
-"Control Rights." Lecture Note 3. Courtesy of Professor Robert Gibbons, Sloan School of Management, MIT. Used with permission. ([PDF]({{< baseurl >}}/resources/gibbons3))
+"Control Rights." Lecture Note 3. Courtesy of Professor Robert Gibbons, Sloan School of Management, MIT. Used with permission. ({{% resource_link 64a89058-54b0-3a8d-393b-2f55425655e4 "PDF" %}})
 
-"Make, Buy or Cooperate." Lecture Note 4. Courtesy of Professor Robert Gibbons, Sloan School of Management, MIT. Used with permission. ([PDF]({{< baseurl >}}/resources/gibbons4))
+"Make, Buy or Cooperate." Lecture Note 4. Courtesy of Professor Robert Gibbons, Sloan School of Management, MIT. Used with permission. ({{% resource_link 78b0690c-5643-dd77-af45-b20a608230b4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -509,7 +510,7 @@ Conclusions
 
 Pounds, William. "The Process of Problem Finding." _Industrial Management Review_ 11 (Fall 1969): 1-19.
 
-Scharmer, Otto. "Addressing the Blind Spot of Our Time: An Executive Summary of Theory U." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4 MB](https://solonline.org/wp-content/uploads/2016/12/Exec_Summary_Sept19-Theory-U-leading-from-the-emerging-future-copy.pdf))
+Scharmer, Otto. "Addressing the Blind Spot of Our Time: An Executive Summary of Theory U." ([PDF - 4.4 MB](https://solonline.org/wp-content/uploads/2016/12/Exec_Summary_Sept19-Theory-U-leading-from-the-emerging-future-copy.pdf))
 
 
 {{< tdclose >}}

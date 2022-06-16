@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes both discussion questions for cases and occasional
+  slide presentations from the lecture sessions of the course. For the cases in sessions
+  17, 20, and 22, discussion questions are intentionally omitted so that the classroom
+  discussions are not influenced.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,7 +40,7 @@ DISCUSSION QUESTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Does sustained performance exist? ([PDF]({{< baseurl >}}/resources/lec1))
+Does sustained performance exist? ({{% resource_link a6677c84-dec0-a525-b057-b1f4b38fbd47 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -64,7 +68,7 @@ Can things like "checklists" or "the Toyota way" be a sustained source of compet
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Reviewing 15.900: Strategy fundamentals ([PDF]({{< baseurl >}}/resources/lec2))
+Reviewing 15.900: Strategy fundamentals ({{% resource_link cf5f5428-da0f-e42f-7091-4fe8a92a864b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -226,7 +230,7 @@ Why was Best Buy able to surpass Circuit City? Why did Circuit City not "simply 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Delta Air Lines (A): the low cost carrier threat, and Delta Air Lines (B): Song ([PDF]({{< baseurl >}}/resources/lec13))
+Delta Air Lines (A): the low cost carrier threat, and Delta Air Lines (B): Song ({{% resource_link 17ad1b6c-8556-fe1e-1909-2611f7249879 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -429,7 +433,7 @@ Student presentations of highlights from term projects
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Conclusions ([PDF]({{< baseurl >}}/resources/lec24))
+Conclusions ({{% resource_link fb2cb109-f768-87d5-c94a-d7d707386215 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

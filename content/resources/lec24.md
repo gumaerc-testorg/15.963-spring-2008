@@ -7,6 +7,7 @@ file: /courses/15-963-advanced-strategy-spring-2008/fb2cb109f76887d5c94ad7d70738
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Closing Reflections
 uid: fb2cb109-f768-87d5-c94a-d7d707386215
 ---
 Lecture notes from the final lecture session with closing reflections on sources of competitive advantage, self reinforcing dynamics, organizational competencies, relational contracts, structural advantages, and management of strategic change.
-

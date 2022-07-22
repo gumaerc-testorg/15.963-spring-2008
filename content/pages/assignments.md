@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on assignments for the course, including
+  three two-page papers and a final paper. Also included comments from the instructor.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4fe2854b-28b6-ec38-a77f-431e693cb3c9
 ---
@@ -29,7 +34,7 @@ In all three cases, you have only two to three pages to explore these questions,
 Instructor Comments
 -------------------
 
-Reflections on Relational Contracts ([PDF]({{< baseurl >}}/resources/rel_cons))
+Reflections on Relational Contracts ({{% resource_link 278c3d65-7878-fa52-eb9b-d62b86c33eea "PDF" %}})
 
 The Final Paper
 ---------------

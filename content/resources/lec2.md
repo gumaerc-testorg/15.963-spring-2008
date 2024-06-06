@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the fundamentals of strategy, competitive advantage,
   economies of scope and scale, and self reinforcing dynamics.
 file: /courses/15-963-advanced-strategy-spring-2008/cf5f5428da0fe42f70914fe8a92a864b_lec2.pdf
+file_size: 53665
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

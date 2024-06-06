@@ -5,6 +5,7 @@ description: Lecture notes on formal versus relational contracts, taken from a d
   Courtesy of Professor Robert Gibbons, Sloan School of Management, MIT. Used with
   permission.
 file: /courses/15-963-advanced-strategy-spring-2008/78b0690c5643dd77af45b20a608230b4_gibbons4.pdf
+file_size: 124212
 file_type: application/pdf
 learning_resource_types:
 - Readings

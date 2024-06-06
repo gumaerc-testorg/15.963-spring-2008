@@ -3,6 +3,7 @@ content_type: resource
 description: Handout containing the instructor's reflections on relational contracts
   provided as a supplement to assignments.
 file: /courses/15-963-advanced-strategy-spring-2008/278c3d657878fa52eb9bd62b86c33eea_rel_cons.pdf
+file_size: 159994
 file_type: application/pdf
 learning_resource_types:
 - Assignments

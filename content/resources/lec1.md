@@ -4,6 +4,7 @@ description: Lecture notes with an introduction to the course and discussion of 
   dynamics of industry evolution, the dynamics of organizational evolution, competitive
   advantage, and relational contracts.
 file: /courses/15-963-advanced-strategy-spring-2008/a6677c84dec0a525b057b1f4b38fbd47_lec1.pdf
+file_size: 181985
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

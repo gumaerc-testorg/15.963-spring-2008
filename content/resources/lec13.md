@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes discussing competition between established airlines and
   low cost carriers.
-file: /courses/15-963-advanced-strategy-spring-2008/17ad1b6c8556fe1e19092611f7249879_lec13.pdf
+file: /ol-ocw-studio-app/courses/15-963-advanced-strategy-spring-2008/17ad1b6c8556fe1e19092611f7249879_lec13.pdf
 file_size: 106267
 file_type: application/pdf
 learning_resource_types:

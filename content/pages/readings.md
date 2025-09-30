@@ -45,7 +45,7 @@ Does sustained performance exist?
 {{< tdopen >}}
 
 
-Gawande, Atul. "[The Checklist](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande)." _The New Yorker_, December 10, 2007.
+Gawande, Atul. "{{% resource_link "03dd766c-537e-420e-9e24-a50db0bdf094" "The Checklist" %}}." _The New Yorker_, December 10, 2007.
 
 Liker, Jeffrey. "The Toyota Way." Chapter 1 in _The Toyota Way_. New York, NY: McGraw-Hill, 2003. ISBN: 9780071392310.
 
@@ -207,7 +207,7 @@ Mishina, Kazuhiro. "Toyota Motor Manufacturing, U.S.A., Inc." HBS Case: 9-693-01
 
 Recommended (required if you are familiar with the Toyota case):
 
-Spear, Steven, and H. Kent Bowen. [_Decoding the DNA of the Toyota Production System_](https://hbr.org/1999/09/decoding-the-dna-of-the-toyota-production-system). Boston, MA: Harvard Business Review, 2008.
+Spear, Steven, and H. Kent Bowen. {{% resource_link "f7d24c06-a0a8-4f34-9b11-c8331bb12498" "_Decoding the DNA of the Toyota Production System_" %}}. Boston, MA: Harvard Business Review, 2008.
 
 Womack, James, Daniel Jones, and Daniel Roos. "What We Have Learned About Lean Production Since 1990." Afterword from _The Machine That Changed the World_. New York, NY: Free Press, 2007. ISBN: 9780743299794.
 
@@ -241,7 +241,7 @@ Case: BP and the Baker report
 {{< tdopen >}}
 
 
-Baker, James, et. al. "[The Report of the BP U.S. Refineries Independent Safety Review Panel.](http://sunnyday.mit.edu/Baker-panel-report.pdf)"  January 2007.
+Baker, James, et. al. "{{% resource_link "2c454d28-094a-4b30-a8ba-b7102213f3bf" "The Report of the BP U.S. Refineries Independent Safety Review Panel." %}}"  January 2007.
 
 "Executive Summary" and "Findings," pages viii-xv and 59-94 from _The Report of the BP U.S. Refineries Independent Safety Review Panel_, January 2007.
 
@@ -370,7 +370,7 @@ Eli Lilly's Project Resilience (MIT authored case)
 {{< tdopen >}}
 
 
-Henderson, Rebecca. "[Eli Lilly's Project Resilience (A): Anticipating the Future of the Pharmaceutical Industry](https://mitsloan.mit.edu/LearningEdge/strategy/Resilience/Pages/default.aspx)." MIT Sloan School Case 07-041, April 30, 2007.
+Henderson, Rebecca. "{{% resource_link "03b9de63-6f71-40d4-936c-60a8367e92a5" "Eli Lilly's Project Resilience (A): Anticipating the Future of the Pharmaceutical Industry" %}}." MIT Sloan School Case 07-041, April 30, 2007.
 
 Recommended:
 
@@ -390,7 +390,7 @@ Lilly (B) (MIT authored case)
 {{< tdopen >}}
 
 
-Henderson, Rebecca, and Cate Reavis. "[Eli Lilly: Recreating Drug Discovery for the 21st Century (B)](https://mitsloan.mit.edu/LearningEdge/strategy/RecreatingDrugDiscovery/Pages/default.aspx)." MIT Sloan School Case 07-043, March 21, 2008.
+Henderson, Rebecca, and Cate Reavis. "{{% resource_link "f3686b34-8b73-4e2b-a4b0-73d26109b167" "Eli Lilly: Recreating Drug Discovery for the 21st Century (B)" %}}." MIT Sloan School Case 07-043, March 21, 2008.
 
 
 {{< tdclose >}}
@@ -406,11 +406,11 @@ The Leadership Council at Corning (MIT authored case)
 {{< tdopen >}}
 
 
-Henderson, Rebecca, and Cate Reavis. "[Corning Incorporated: The Growth and Strategy Council](https://mitsloan.mit.edu/LearningEdge/strategy/CorningIncorporated/Pages/default.aspx)." MIT Sloan School Case 08-056, April 15, 2009.
+Henderson, Rebecca, and Cate Reavis. "{{% resource_link "981ba330-5273-408b-b0a4-7db3fcf8dd2c" "Corning Incorporated: The Growth and Strategy Council" %}}." MIT Sloan School Case 08-056, April 15, 2009.
 
 Recommended:
 
-Rock, David, and Jeffrey Schwartz. "[The Neuroscience of Leadership](http://www.strategy-business.com/article/06207?gko=6da0a)." _Strategy and Business_, Summer 2006.
+Rock, David, and Jeffrey Schwartz. "{{% resource_link "ee6f3fb0-d258-4e0b-9d6c-ef16013340b3" "The Neuroscience of Leadership" %}}." _Strategy and Business_, Summer 2006.
 
 
 {{< tdclose >}}
@@ -510,7 +510,7 @@ Conclusions
 
 Pounds, William. "The Process of Problem Finding." _Industrial Management Review_ 11 (Fall 1969): 1-19.
 
-Scharmer, Otto. "Addressing the Blind Spot of Our Time: An Executive Summary of Theory U." ([PDF - 4.4 MB](https://solonline.org/wp-content/uploads/2016/12/Exec_Summary_Sept19-Theory-U-leading-from-the-emerging-future-copy.pdf))
+Scharmer, Otto. "Addressing the Blind Spot of Our Time: An Executive Summary of Theory U." ({{% resource_link "c8713f87-9c51-485e-a52a-740a9141ebe5" "PDF - 4.4 MB" %}})
 
 
 {{< tdclose >}}
